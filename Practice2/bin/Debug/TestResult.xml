@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug\Practice2.exe" total="17" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-08-02" time="11:19:55">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.9151" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug" machine-name="DESKTOP-UC0G17B" user="OpenCNC" user-domain="DESKTOP-UC0G17B" />
+  <culture-info current-culture="zh-TW" current-uiculture="zh-TW" />
+  <test-suite type="Assembly" name="D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug\Practice2.exe" executed="True" result="Success" success="True" time="0.134" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Practice2" executed="True" result="Success" success="True" time="0.111" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="BubbleTest" executed="True" result="Success" success="True" time="0.109" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="InputTest" executed="True" result="Success" success="True" time="0.069" asserts="0">
+                <results>
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;-10000&quot;,&quot;1&quot;,&quot;-1&quot;,&quot;10000&quot;)" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;one&quot;,&quot;two&quot;,&quot;cat&quot;,&quot;ten&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;,&quot;d&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;1&quot;,&quot;2&quot;,&quot;5&quot;,&quot;100&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;&quot;,&quot;3&quot;,&quot;7&quot;,&quot;-998&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;-3&quot;,&quot;-54&quot;,&quot;98&quot;,&quot;41&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.InputTest(&quot;a&quot;,&quot;-3&quot;,&quot;.&quot;,&quot;6&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="SortTest" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                <results>
+                  <test-case name="Practice2.BubbleTest.SortTest(System.Int32[])" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.SortTest(System.Int32[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.SortTest(System.Int32[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.SortTest(System.Int32[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Practice2.BubbleTest.SortTest(System.Int32[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="SwapTest" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                <results>
+                  <test-case name="Practice2.BubbleTest.SwapTest(69,20)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="Practice2.BubbleTest.SwapTest(-3,3)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="Practice2.BubbleTest.SwapTest(-10,-23)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="Practice2.BubbleTest.SwapTest(5,5)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1021]D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug\Practice2.exe</TopNode>
+  <SelectedNode>[0-1021]D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug\Practice2.exe</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1021]D:\FreshmanProject\Practice2_v2\Practice2\bin\Debug\Practice2.exe" Expanded="true" />
+    <Node UniqueName="[0-1022]Practice2" Expanded="true" />
+    <Node UniqueName="[0-1000]Practice2.BubbleTest" Expanded="true" />
+    <Node UniqueName="[0-1001]Practice2.BubbleTest.InputTest" Expanded="true" />
+    <Node UniqueName="[0-1015]Practice2.BubbleTest.SortTest" Expanded="true" />
+    <Node UniqueName="[0-1010]Practice2.BubbleTest.SwapTest" Expanded="true" />
+  </Nodes>
+</VisualState>
