@@ -21,12 +21,13 @@ Choose one:
 
 2. Download thePractice2/bin/Debug/Practice2.exe file.
 
-# Usage of UnitTest
+# UnitTest
 
 1. Download Nunit 2.6.4 on https://nunit.org/index.php/?p=download
 2. Add nunit.framework.dll to the project
 3. Using NUnit.Framework on the Unit test file.
-4. Assign the Debug root to the  "bin\nunit.exe".
+4. Assign the Debug root to the  "bin\nunit.exe".![image](https://user-images.githubusercontent.com/34390301/165702953-686c219d-cec9-4b8f-a2b4-80c565ae2558.png)
+
 5. Compile it and run it.
 
 Reference：https://docs.nunit.org/2.6.4/writingTests.html
