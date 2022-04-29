@@ -34,12 +34,10 @@ Choose one:
 Reference：https://docs.nunit.org/2.6.4/writingTests.html
 
 # Example
-We press "B" to make the squares move, and press "A" to stop the squares. 
-
-The squares will departure in sequence, and lights will turn on depending on what direction squares toward. 
-
-The squares will also bounce back when they hit the boundary.
-
-&emsp;
 
 This game is shown below：
+
+![image](https://user-images.githubusercontent.com/34390301/165882250-fe725d06-5087-4202-b52c-0b66e3f589c7.png)
+
+![image](https://user-images.githubusercontent.com/34390301/165882277-1800ea69-731c-469b-85fb-4b699b6f18a2.png)
+
